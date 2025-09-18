@@ -1,6 +1,6 @@
 {
   "name": "axios-interceptor-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful, configurable axios interceptor with service factory pattern for unlimited API service creation",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
